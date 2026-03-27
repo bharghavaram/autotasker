@@ -1,3 +1,5 @@
+> **📅 Project Period:** Sep 2024 – Nov 2024 &nbsp;|&nbsp; **Status:** Completed &nbsp;|&nbsp; **Author:** [Bharghava Ram Vemuri](https://github.com/bharghavaram)
+
 # 🤖 AutoTasker – Multi-Agent Task Orchestration System
 
 > **AutoGen-powered multi-agent system with Planner, Executor, and Critic agents, Redis-backed memory, and Celery async processing.**
