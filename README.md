@@ -16,7 +16,11 @@
 
 ---
 
-## 🎯 Problem Statement
+<div align="center">
+  <img src="https://raw.githubusercontent.com/bharghavaram/autotasker/main/docs/images/demo.svg" alt="autotasker demo" width="820"/>
+</div>
+
+--- 🎯 Problem Statement
 
 Complex business workflows require multiple specialists working in sequence — a task might need a researcher, a writer, a code generator, and a reviewer. Assigning these to separate LLM calls loses context; using a single LLM for all roles produces mediocre results. AutoTasker uses Microsoft AutoGen to create specialised agent roles (Planner, Executor, Critic, Researcher) that collaborate with persistent memory, tool use, and agent-to-agent communication — reducing manual intervention by 60% across 200+ workflow types.
 
